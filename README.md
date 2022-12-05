@@ -20,4 +20,3 @@ Collect guest logs and metrics from Azure virtual machine
 Ref: https://learn.microsoft.com/en-us/azure/azure-monitor/
 
 
-
