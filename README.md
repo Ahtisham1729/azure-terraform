@@ -15,7 +15,9 @@ Enabled monitoring on Monitoring on VM.
 <img width="1792" alt="image" src="https://user-images.githubusercontent.com/88227234/205758097-44437609-8308-456c-9687-206ab0583ed7.png">
 
 Collect guest logs and metrics from Azure virtual machine
+<img width="1792" alt="image" src="https://user-images.githubusercontent.com/88227234/205767362-86d2baed-c6e9-43c4-af7e-5f2c39a8abe0.png">
 
+Ref: https://learn.microsoft.com/en-us/azure/azure-monitor/
 
 
 
